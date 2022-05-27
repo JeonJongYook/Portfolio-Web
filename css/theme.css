@@ -6,7 +6,7 @@ body {
 }
 
 /* 헤더 */
-/* header { background-image: url(/assets/img/hero-light_2.png); background-repeat: no-repeat; background-position: center; background-size: cover; } */
+/* header { background-image: url(/assets/img/developstory.png); background-repeat: no-repeat; background-position: center; background-size: cover; } */
 header { background-color: black; background-repeat: no-repeat; background-position: center; background-size: cover; }
 header { background-repeat: no-repeat; background-position: center; background-size: cover; }
 header .container { padding: 16rem 4rem; }
