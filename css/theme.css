@@ -29,6 +29,7 @@ header .container h1 {
 .navbar { position: sticky; z-index: 10; top: 0; padding-left: 1.875rem; padding-right: 1.875rem; font-size: 0.9rem; font-weight: 700; letter-spacing: 0; }
 .navbar-light .navbar-nav .nav-link { color: #3f416581; }
 .navbar-light .navbar-nav .nav-link.active { color: #ff3366c4; }
+/* .navbar { background-color: rgba(164, 164, 164, 0.712);} */
 .navbar { background-color: rgba(164, 164, 164, 0.712);}
 
 /* table 공통  */
