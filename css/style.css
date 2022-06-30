@@ -5172,7 +5172,12 @@ textarea.form-control-lg {
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 0.3rem;
   outline: 0;
+  flex-wrap: nowrap;
+  align-content: space-around;
+  justify-content: space-around;
+  align-items: stretch;
 }
+
 
 .modal-backdrop {
   position: fixed;
@@ -5241,7 +5246,7 @@ textarea.form-control-lg {
 
 @media (min-width: 576px) {
   .modal-dialog {
-    max-width: 500px;
+    max-width: max-content;
     margin: 1.75rem auto;
   }
 
